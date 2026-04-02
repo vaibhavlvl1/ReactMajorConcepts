@@ -1,1 +1,7 @@
-React + TypeScript Template with Tailwindcss React Browser Router Zustand TanStack Query
+React + TypeScript Template with
+Tailwindcss
+React
+Browser Router Dom
+Zustand
+TanStack Query
+React Hook Form
